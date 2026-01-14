@@ -1,3 +1,4 @@
-theme: jekyll-theme-Minimal
 title: Love, Ian
 description: My (Ian Johnson) own little blog and personal writing and creative space repository
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
